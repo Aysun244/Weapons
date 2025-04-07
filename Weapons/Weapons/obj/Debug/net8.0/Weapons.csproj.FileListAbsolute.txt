@@ -1,0 +1,15 @@
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\bin\Debug\net8.0\Weapons.exe
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\bin\Debug\net8.0\Weapons.deps.json
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\bin\Debug\net8.0\Weapons.runtimeconfig.json
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\bin\Debug\net8.0\Weapons.dll
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\bin\Debug\net8.0\Weapons.pdb
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.AssemblyInfoInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.AssemblyInfo.cs
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.csproj.CoreCompileInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.sourcelink.json
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.dll
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\refint\Weapons.dll
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.pdb
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\Weapons.genruntimeconfig.cache
+C:\Users\Aysun\OneDrive\Desktop\Weapons\Weapons\Weapons\obj\Debug\net8.0\ref\Weapons.dll
